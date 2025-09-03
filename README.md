@@ -11,7 +11,7 @@ and copy this template repository. Make your new repository is public so that I 
 
 
 ### Open the Jupyter notebook project1.ipynb in Google colab.
-Click the following badge to open the notebook in Google Colab. 
+Click the following badge to open the my notebook in Google Colab. 
 
 
 
